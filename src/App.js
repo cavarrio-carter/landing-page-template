@@ -27,6 +27,7 @@ function App() {
             Creative Architect {bull} Forward Solutions
             </h2>
 
+            /*route to file containing main page instead of using URL*/
             <EnterButton1></EnterButton1>
           </div>
     </section>
